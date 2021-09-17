@@ -14,7 +14,7 @@ ENDCLASS.
 
 CLASS zcl_prueba_shop_jmmb IMPLEMENTATION.
   METHOD prueba1.
-* Prueba
+
   ENDMETHOD.
 
 ENDCLASS.
