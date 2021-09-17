@@ -11,4 +11,5 @@ ENDCLASS.
 
 
 CLASS zcl_prueba_shop_jmmb IMPLEMENTATION.
+*Prueba
 ENDCLASS.
